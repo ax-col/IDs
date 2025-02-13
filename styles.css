@@ -28,7 +28,7 @@ body {
     justify-content: center;
     gap: 10px;
     flex-wrap: wrap; /* Permite ajuste si la pantalla es pequeña */
-    margin-bottom: 30px; /* Espaciado con el ID */
+    margin-bottom: 50px; /* Espaciado con el ID */
 }
 
 .time-container {
